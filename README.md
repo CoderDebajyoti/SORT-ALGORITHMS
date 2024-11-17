@@ -1,7 +1,3 @@
-Here’s a sample **`README.md`** for your **`SORT-ALGORITHMS`** repository:  
-
----
-
 # SORT-ALGORITHMS  
 
 A comprehensive collection of sorting algorithm implementations in C. This repository provides efficient, well-documented examples of sorting techniques to help developers and students understand and compare their functionality and performance.  
