@@ -1,5 +1,7 @@
-Here’s an example implementation of the **Bubble Sort** algorithm in C. It works by repeatedly swapping adjacent elements if they are in the wrong order. This process is repeated until the array becomes sorted.
-
+## Bubble Sort
+```
+Bubble Sort repeatedly compares adjacent elements and swaps them if they are in the wrong order. The process is repeated until the array is sorted.
+```
 ```c
 #include <stdio.h>
 
